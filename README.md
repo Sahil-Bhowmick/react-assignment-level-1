@@ -65,7 +65,7 @@ User -
   1. Push code to github
   1. Deploy and host the app using Github Pages
   1. Reply to the same email with the **repo URL** and **hosted URL**
-- For any queries please email us at [hiring@truevalueaccess.com](mailto:hiring@truevalueaccess.com)
+- For any queries please email us at [career@datapeace.in](mailto:career@datapeace.in)
 
 ## Wireframes:
 
