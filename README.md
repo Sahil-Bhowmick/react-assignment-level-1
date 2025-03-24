@@ -71,3 +71,14 @@ User -
 
 Wireframes for users table page _(left)_ and user detail page _(right)_
 ![Wireframes for screens](screens-wireframes.png)
+
+# Optional: Backend in Node
+
+Note that this is an optional assignment. 
+
+Your task is to create a backend application using any node framework (express, fastify, etc.). You need to create the following API endpoints:
+
+- list users with pagination and sort functionalities
+- search for a user
+
+Your API's should internally fetch the data using the [api provided](#api-endpoint), and then forward the required data as response.
